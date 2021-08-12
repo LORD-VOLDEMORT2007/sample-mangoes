@@ -1,1 +1,1 @@
-# sample-mangoes
+# plucking_mangoes_boilerplate
